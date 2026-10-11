@@ -1,0 +1,20 @@
+locale = "zh-SG"
+label = "简体字"
+weight = 2
+title = "Dahi — 开源技术与云基础设施"
+
+[params]
+  displayName = "简体"
+  isoCode = "zh-SG"
+  rtl = false
+  dateFormat = "2006-01-02"
+  description = "专注 Linux、Cloudflare、OpenWrt、DNS 优化与开源基础设施的技术博客。由 Dahi 维护。"
+
+[author]
+  name = "Dahi"
+  image = "https://img3.tapimg.com/avatars/etag/FrXPfpRN0pwF5SuiQ7MIPO3BXdkK.png"
+  headline = "Cloudflare 调优 · OpenWrt 定制 · DNS 加速 · Linux 基础设施"
+  bio = "Cloudflare, DNS & Infrastructure Engineer"
+  links = [
+    { github = "https://github.com/dahisea" }
+  ]

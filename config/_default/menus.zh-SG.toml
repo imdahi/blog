@@ -1,0 +1,38 @@
+# -- Main menu (Simplified Chinese) --
+
+[[main]]
+  name = "Article"
+  pageRef = "posts"
+  weight = 40
+
+[[main]]
+  name = "Tomo"
+  pageRef = "tomodachi"
+  weight = 200
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 300
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/dahisea"
+  weight = 400
+
+[[main]]
+  identifier = "telegram"
+  pre = "telegram"
+  url = "https://t.me/Unit_O"
+  weight = 450
+
+ [[footer]]
+   name = "TAG"
+   pageRef = "tags"
+   weight = 10
+
+ [[footer]]
+   name = "DNS"
+   pageRef = "dns"
+   weight = 20
